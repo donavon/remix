@@ -14,7 +14,7 @@
     "@remix-run/server-runtime": "1.0.6",
     "@types/node-fetch": "^2.5.12",
     "cookie-signature": "^1.1.0",
-    "node-fetch": "^2.6.1",
+    "node-fetch": "^2.6.7",
     "source-map": "^0.7.3"
   },
   "devDependencies": {
