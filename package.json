@@ -62,7 +62,7 @@
     "@typescript-eslint/parser": "^5.12.1",
     "abort-controller": "^3.0.0",
     "abortcontroller-polyfill": "^1.7.3",
-    "aws-sdk": "^2.1055.0",
+    "aws-sdk": "^2.1354.0",
     "chalk": "^4.1.0",
     "cheerio": "^1.0.0-rc.3",
     "concurrently": "^7.0.0",
